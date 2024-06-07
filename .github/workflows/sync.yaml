@@ -1,12 +1,10 @@
 name: sync
 
 on:
-  push:
-    branches:
-      - master
-  pull_request:
-    branches:
-      - master
+  workflow_dispatch:
+  schedule:
+    # every day at 7am & 7pm pacific
+    - cron: "0 2,14 * * *"
 
 jobs:
   sync-image:

@@ -3,4 +3,3 @@ ghcr.io/dapr/sentry:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/sentry:
 ghcr.io/dapr/placement:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/placement:1.13.4
 ghcr.io/dapr/operator:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/operator:1.13.4
 ghcr.io/dapr/injector:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/injector:1.13.4
-ghcr.io/dapr/daprd:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/daprd:1.13.4

@@ -1,7 +1,7 @@
-ghcr.io/dapr/daprd:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/daprd:1.13.4
-ghcr.io/dapr/sentry:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/sentry:1.13.4
-ghcr.io/dapr/placement:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/placement:1.13.4
-ghcr.io/dapr/operator:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/operator:1.13.4
-ghcr.io/dapr/injector:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/injector:1.13.4
-docker.io/daprio/dashboard:0.14.0: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/dashboard:0.14.0
+ghcr.io/dapr/daprd: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/daprd
+ghcr.io/dapr/sentry: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/sentry
+ghcr.io/dapr/placement: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/placement
+ghcr.io/dapr/operator: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/operator
+ghcr.io/dapr/injector: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/injector
+docker.io/daprio/dashboard: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/dashboard
 busybox:latest: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/busybox:latest

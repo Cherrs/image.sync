@@ -4,3 +4,4 @@ ghcr.io/dapr/placement:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/plac
 ghcr.io/dapr/operator:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/operator:1.13.4
 ghcr.io/dapr/injector:1.13.4: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/injector:1.13.4
 docker.io/daprio/dashboard:0.14.0: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/dashboard:0.14.0
+busybox: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/busybox:latest

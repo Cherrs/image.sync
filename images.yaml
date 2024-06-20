@@ -8,3 +8,5 @@ busybox:latest: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/busybox:latest
 nginx:latest: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/nginx:latest
 bitnami/kubectl:latest: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/kubectl:latest
 docker:26: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/docker:26
+ghcr.io/dexidp/dex:v2.38.0: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/dex:v2.38.0
+redis:7.0.14-alpine: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/redis:7.0.14-alpine

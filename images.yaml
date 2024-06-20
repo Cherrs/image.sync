@@ -7,3 +7,4 @@ docker.io/daprio/dashboard:0.14.0: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/
 busybox:latest: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/busybox:latest
 nginx:latest: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/nginx:latest
 bitnami/kubectl:latest: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/kubectl:latest
+docker:26: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/docker:26

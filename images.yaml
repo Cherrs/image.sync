@@ -10,3 +10,4 @@ bitnami/kubectl:latest: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/kubectl:lat
 docker:26: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/docker:26
 ghcr.io/dexidp/dex:v2.38.0: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/dex:v2.38.0
 redis:7.0.14-alpine: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/redis:7.0.14-alpine
+rancher/mirrored-pause:3.6: registry.cn-zhangjiakou.aliyuncs.com/ph-sync/mirrored-pause:3.6
